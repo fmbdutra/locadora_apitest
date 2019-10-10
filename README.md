@@ -8,7 +8,7 @@ Tecnologias usadas:
   <li>Rest-Assured</li>
   <li>JUnit</li>
 </ul>
-
+<br>
 Realizado a verificação separada por módulos:
 <ul>
   <li>Locação
